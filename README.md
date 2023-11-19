@@ -4,7 +4,7 @@
 ## Overview
 
 **FireStrike** is an interactive 3D game that is in First Person Shooter(FPS) mode and the goal of the player is to survive the attacks from enemies by shooting them before being spotted.
-The game is developed using Unreal Engine which is based on the C++ programming language.
+The game is developed using the Unreal Engine which is based on the C++ programming language.
 
 ## Features
 - **Interactive gameplay**: The player is ambushed by enemies when he/she is spotted by them. The enemies are developed using Artificial Intelligence to make them responsive.
