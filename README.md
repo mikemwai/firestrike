@@ -3,7 +3,7 @@
 
 ## Overview
 
-"**FireStrike**" is an interactive 3D game that is in First Person Shooter(FPS) mode and the goal of the player is to survive the attacks from the enemies by shooting them before being spotted.
+**FireStrike** is an interactive 3D game that is in First Person Shooter(FPS) mode and the goal of the player is to survive the attacks from the enemies by shooting them before being spotted.
 The game is developed using Unreal Engine which is based on the C++ programming language.
 
 ## Features
