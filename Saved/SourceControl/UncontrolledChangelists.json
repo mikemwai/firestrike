@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/ArmsBlendSpace1D.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/ABP_Arms.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/MF_Pistol_Walk_Fwd.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/MI_Weapon_Pistol.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/MM_Pistol_Idle_ADS.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/SK_Pistol.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/SK_Pistol_Anim.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/SK_Pistol_PhysicsAsset.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/SK_Pistol_Skeleton.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/T_Pistol_AORM.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/T_Pistol_D.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/T_Pistol_Masks.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/T_Pistol_N.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset"
+			]
+		}
+	]
+}
