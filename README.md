@@ -17,10 +17,13 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 ## Tools
 - **[Unreal Engine](https://www.unrealengine.com/en-US) (Version 5.3)**: It is an advanced realtime 3D creation tool for visual and immersive experiences. It is the platform used for developing the game.
 
+## Setup
+
+
 ## Platforms
 - The game runs as a desktop application.
 
-## Contribution
+## Contributions
 - To contribute to the project:
    - Fork the repository
    - Create a branch on your forked repository
