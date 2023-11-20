@@ -18,7 +18,14 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 - **[Unreal Engine](https://www.unrealengine.com/en-US) (Version 5.3)**: It is an advanced realtime 3D creation tool for visual and immersive experiences. It is the platform used for developing the game.
 
 ## Setup
+- Clone the project:
+```sh
+  git clone https://github.com/mikemwai/firestrike.git
+```
 
+- Download [Unreal Engine](https://www.unrealengine.com/en-US) and after downloading it, open the engine.
+- Once the engine has opened, click on `Browse` and navigate to the cloned repository.
+- Select the project file with the `.uproject` extension and click `Open`.
 
 ## Platforms
 - The game runs as a desktop application.
