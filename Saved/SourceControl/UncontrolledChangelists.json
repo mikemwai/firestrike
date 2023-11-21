@@ -21,6 +21,13 @@
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/T_Pistol_Masks.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Animations/Pistol/T_Pistol_N.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/Characters/Mannequins/Animations/Manny/BodyBlendSpace1D.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/Characters/Mannequins/Animations/Manny/ABP_Body.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_Melee_Imp_01.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_Muzzle2.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/Blueprints/BP_ShootCameraShake.uasset",
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Chicken/P_ChickenMaster_.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/FG/C9C8NKPQ680JETAE5ROTT1.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
@@ -74,9 +81,7 @@
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
 				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
-				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
-				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/Characters/Mannequins/Animations/Manny/BodyBlendSpace1D.uasset",
-				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/Characters/Mannequins/Animations/Manny/ABP_Body.uasset"
+				"C:/Users/Usewr/OneDrive - Strathmore University/Documents/Computer Science/3rd Year/2nd Sem/Computer Graphics/firestrike/Content/ThirdPerson/Input/Actions/IA_Jump.uasset"
 			]
 		}
 	]
