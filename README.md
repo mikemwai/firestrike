@@ -35,12 +35,12 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 
 ## Contributions
 - To contribute to the project:
-   - Fork the repository
-   - Create a branch on your forked repository
-   - Submit a [pull request](https://github.com/mikemwai/firestrike/pulls)
+   - Fork the repository.
+   - Create a branch on your forked repository.
+   - Submit a [pull request](https://github.com/mikemwai/firestrike/pulls).
  
 ## Issues
 - Feel free to raise any [issue](https://github.com/mikemwai/firestrike/issues) concerning the project.
 
 ## License
-- The project is licensed under the [MIT License](./LICENSE)
+- The project is licensed under the [MIT License](./LICENSE).
