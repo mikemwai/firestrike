@@ -17,7 +17,7 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 ## Tools
 - **[Unreal Engine](https://www.unrealengine.com/en-US) (Version 5.3)**: It is an advanced realtime 3D creation tool for visual and immersive experiences. It is the platform used for developing the game.
 
-## Setup
+## Project Setup
 - Download [Unreal Engine](https://www.unrealengine.com/en-US) and after downloading it, open the engine.
 - Download the [project zip folder](https://drive.google.com/file/d/1hby8KRiNbXEwcGlTkxx4I5-G_shlBzTa/view?usp=sharing).
 - Extract the project folder to the desired location.
