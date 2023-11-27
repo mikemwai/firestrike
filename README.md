@@ -39,6 +39,7 @@ This section helps you navigate through the game and know which buttons to use w
 - End: To move to the Right
 - Spacebar: To Jump
 - Ctrl+Esc: To exit the game
+Gameplay: Your goal is to survive enemy attacks by shooting them before being spotted.
   
 
 ## Platforms
