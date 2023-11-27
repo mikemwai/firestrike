@@ -19,7 +19,7 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 
 ## Setup
 - Download [Unreal Engine](https://www.unrealengine.com/en-US) and after downloading it, open the engine.
-- Download the [project zip file](https://drive.google.com/file/d/1hby8KRiNbXEwcGlTkxx4I5-G_shlBzTa/view?usp=sharing).
+- Download the [project zip folder](https://drive.google.com/file/d/1hby8KRiNbXEwcGlTkxx4I5-G_shlBzTa/view?usp=sharing).
 - Extract the project folder to the desired location.
 - Once the project has been extracted, navigate to the `Game` folder and open `Windows` folder.
 - Click and open `firestrike` file with the `.exe` extension to play the game.
