@@ -50,6 +50,16 @@ This section helps you navigate through the game and know which buttons to use w
 Gameplay: Your goal is to survive enemy attacks by shooting them before being spotted.
   
 
+## Game controls
+- The controls used on the game are:
+  - Spacebar - Jump
+  - Up arrow - Go forward
+  - Down arrow - Go backwards
+  - Left arrow - Go left
+  - Right arrow - Go right
+  - Left mouse button - Shoot
+  - Mouse scroll - Look around
+
 ## Platforms
 
 - The platform supported for this game is Windows.
