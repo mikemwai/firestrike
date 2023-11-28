@@ -30,6 +30,16 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 
 `NOTE:` Follow the steps above to setup the project.
 
+## Game controls
+- The controls used on the game are:
+  - Spacebar - Jump
+  - Up arrow - Go forward
+  - Down arrow - Go backwards
+  - Left arrow - Go left
+  - Right arrow - Go right
+  - Left mouse button - Shoot
+  - Mouse scroll - Look around
+
 ## Platforms
 - The platform supported for this game is Windows.
 
