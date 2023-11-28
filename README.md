@@ -32,8 +32,8 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 
 ## Game controls
 This section helps you navigate through the game and know which buttons to use while playing the game.
-- PageUp/W: To Move Forward
-- PageDn/D: To Move Backwards
+- PageUp: To Move Forward
+- PageDn: To Move Backwards
 - Left Mouse Button: To shoot
 - Home: To move to the Left
 - End: To move to the Right
