@@ -20,27 +20,40 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 ## Project Setup
 - Download [Unreal Engine](https://www.unrealengine.com/en-US) and the [project zip folder](https://drive.google.com/file/d/1hby8KRiNbXEwcGlTkxx4I5-G_shlBzTa/view?usp=sharing).
 - Extract the project folder to the desired location.
-- Once the project has been extracted, open the project folder, navigate to the `Game` folder and open `Windows` folder.
-- Click and open `firestrike` file with the `.exe` extension to play the game.
+- Once the project has been extracted, open the project folder, navigate to the `Game` folder, and open the `Windows` folder.
+- Click and open the `firestrike` file with the `.exe` extension to play the game.
 
 ### &nbsp;&nbsp;&nbsp;<ins>Unreal Engine Editor</ins>
 &nbsp;&nbsp; - Once the engine has downloaded, open and click on `Browse` and navigate to the extracted project folder.
 
 &nbsp;&nbsp; - Select the project file with the `.uproject` extension and click `Open`.
 
-`NOTE:` Follow the steps above to setup the project.
+`NOTE:` Follow the steps above to set up the project.
+
+## Game controls
+This section helps you navigate through the game and know which buttons to use while playing the game.
+- PageUp/ W Key: To Move Forward
+- PageDn/ D Key: To Move Backwards
+- Left Mouse Button: To shoot
+- Home : To move to the Left
+- End: To move to the Right
+- Spacebar: To Jump
+- Ctrl+Esc: To exit the game
+  
+Gameplay: Your goal is to survive enemy attacks by shooting them before being spotted.
+  
 
 ## Platforms
 - The platform supported for this game is Windows.
 
 ## Contributions
 - To contribute to the project:
-   - Fork the repository
-   - Create a branch on your forked repository
-   - Submit a [pull request](https://github.com/mikemwai/firestrike/pulls)
+   - Fork the repository.
+   - Create a branch on your forked repository.
+   - Submit a [pull request](https://github.com/mikemwai/firestrike/pulls).
  
 ## Issues
 - Feel free to raise any [issue](https://github.com/mikemwai/firestrike/issues) concerning the project.
 
 ## License
-- The project is licensed under the [MIT License](./LICENSE)
+- The project is licensed under the [MIT License](./LICENSE).
