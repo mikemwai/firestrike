@@ -1,4 +1,4 @@
-# FireStrike
+# firestrike
 
 ## Overview
 
