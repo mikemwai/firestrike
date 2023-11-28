@@ -32,10 +32,10 @@ The game is developed using the Unreal Engine which is based on the C++ programm
 
 ## Game controls
 This section helps you navigate through the game and know which buttons to use while playing the game.
-- PageUp: To Move Forward
-- PageDn: To Move Backwards
+- PageUp/ W Key: To Move Forward
+- PageDn/ D Key: To Move Backwards
 - Left Mouse Button: To shoot
-- Home: To move to the Left
+- Home : To move to the Left
 - End: To move to the Right
 - Spacebar: To Jump
 - Ctrl+Esc: To exit the game
