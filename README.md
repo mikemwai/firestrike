@@ -2,12 +2,11 @@
 
 ## Overview
 
-**FireStrike** is an interactive 3D game that is in First Person Shooter(FPS) mode and the goal of the player is to survive the attacks from enemies by shooting them before being spotted.
-The game is developed using the Unreal Engine which is based on the C++ programming language.
+**FireStrike** is an interactive 3D game that is in First Person Shooter(FPS) mode. The game is developed using the Unreal Engine which is based on the C++ programming language.
 
 ## Game Objective
 
-Survive waves of enemy attacks by strategically shooting enemies before they spot you. The longer you survive, the higher your score.
+Survive waves of enemy attacks by strategically shooting enemies before they spot you. You win when you are the last man standing.
 
 ## Features
 
@@ -37,28 +36,16 @@ Survive waves of enemy attacks by strategically shooting enemies before they spo
 
 `NOTE:` Follow the steps above to set up the project.
 
-## Game controls
-This section helps you navigate through the game and know which buttons to use while playing the game.
-- PageUp/ W Key: To Move Forward
-- PageDn/ D Key: To Move Backwards
-- Left Mouse Button: To shoot
-- Home : To move to the Left
-- End: To move to the Right
-- Spacebar: To Jump
-- Ctrl+Esc: To exit the game
+## Game Controls
+- The controls used in the game are:
   
-Gameplay: Your goal is to survive enemy attacks by shooting them before being spotted.
-  
-
-## Game controls
-- The controls used on the game are:
-  - Spacebar - Jump
-  - Up arrow - Go forward
-  - Down arrow - Go backwards
-  - Left arrow - Go left
-  - Right arrow - Go right
-  - Left mouse button - Shoot
-  - Mouse scroll - Look around
+  - `W/ Up Arrow/ PageUp` Key: To Move Forward
+  - `S/ PageDn/ Down Arrow` Key: To Move Backwards
+  - `Left Mouse` Button: To shoot
+  - `A/ Left Arrow/ Home` Key: To move to the Left
+  - `D/ Right Arrow/ End` Key: To move to the Right
+  - `Spacebar`: To Jump
+  - `Ctrl+Esc`: To exit the game
 
 ## Platforms
 
