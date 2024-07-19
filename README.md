@@ -23,7 +23,7 @@ Survive waves of enemy attacks by strategically shooting enemies before they spo
 
 ## Project Setup
 
-- Download [Unreal Engine](https://www.unrealengine.com/en-US) and the [project zip folder](https://drive.google.com/file/d/1hby8KRiNbXEwcGlTkxx4I5-G_shlBzTa/view?usp=sharing).
+- Download [Unreal Engine](https://www.unrealengine.com/en-US) and the [project zip folder](https://drive.google.com/drive/folders/1Yk-obkTt1rWvk3uyaegmMvjH2M0GFUXf?usp=sharing).
 - Extract the project folder to the desired location.
 - Once the project has been extracted, open the project folder, navigate to the `Game` folder, and open the `Windows` folder.
 - Click and open the `firestrike` file with the `.exe` extension to play the game.
